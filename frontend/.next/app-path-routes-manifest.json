@@ -1,0 +1,6 @@
+{
+  "/about/page": "/about",
+  "/api/hello/route": "/api/hello",
+  "/page": "/",
+  "/product/[id]/page": "/product/[id]"
+}

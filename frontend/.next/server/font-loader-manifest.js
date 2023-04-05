@@ -1,10 +1,1 @@
-self.__FONT_LOADER_MANIFEST={
-  "pages": {},
-  "app": {
-    "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/font/google/target.css?{\"path\":\"src/features/landing-page/Navbar.tsx\",\"import\":\"Poppins\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"700\"]}],\"variableName\":\"poppins\"}": [
-      "static/media/9a881e2ac07d406b-s.p.woff2"
-    ]
-  },
-  "appUsingSizeAdjust": true,
-  "pagesUsingSizeAdjust": false
-}
+self.__FONT_LOADER_MANIFEST={pages:{},app:{'/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/font/google/target.css?{"path":"src/features/landing-page/Navbar.tsx","import":"Poppins","arguments":[{"subsets":["latin"],"weight":["700"]}],"variableName":"poppins"}':["static/media/9a881e2ac07d406b-s.p.woff2"]},appUsingSizeAdjust:!0,pagesUsingSizeAdjust:!1};

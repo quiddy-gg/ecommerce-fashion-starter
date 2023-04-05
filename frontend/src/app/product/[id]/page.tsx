@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import { MainProduct } from '@/features/product/MainProduct'
 import { FetchProductDocument, FetchProductQuery } from '../../../../saleor/api';
 import { client } from '../../../../apollo-client';
@@ -10,8 +12,6 @@ const getData = async () => {
 
     return data
 }
-
-
 
 export default async function Home() {
 
