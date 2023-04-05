@@ -1,0 +1,30 @@
+.sizes_list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.sizes_list input {
+    display: none;
+    position: absolute;
+}
+
+.check_label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-width: 1px;
+    width: 2rem;
+    height: 2rem;
+    font-size: 0.75rem;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 0.3s;
+    color: white;
+}
+
+.sizes_list input:checked + .check_label {
+    background-color: rgba(255, 255, 255, .8);
+    border-radius: 4px;
+    color: black;
+}

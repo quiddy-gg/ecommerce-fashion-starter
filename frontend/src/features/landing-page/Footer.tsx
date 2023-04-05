@@ -18,11 +18,11 @@ export const Footer = () => {
             font-thin
             text-sm
             leading-5
-            bg-[#000912]/80
+            bg-[#010103]/20
             z-50
             
-            max-sm:flex-wrap
-            max-sm:text-center">
+            max-[700px]:flex-wrap
+            max-[700px]:text-center">
                 <ul className="flex
                 flex-col
                 gap-2">
@@ -35,7 +35,8 @@ export const Footer = () => {
 
                 <ul className="flex
                 flex-col
-                gap-2">
+                gap-2
+                text-right">
                     <li><Link href="">Instagram</Link></li>
                     <li><Link href="">Tik-tok</Link></li>
                     <li><Link href="">GitHub</Link></li>

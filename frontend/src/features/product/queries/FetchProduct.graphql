@@ -1,0 +1,27 @@
+query FetchProduct ($id: ID) {
+  product(id: $id
+  channel: "default-channel") {
+    id
+    name
+    description
+    isAvailable(address: {country: PL})
+    category {
+      name
+    }
+    media {
+      id 
+      alt
+			url
+    }
+		pricing(address: {country: PL}) {
+      priceRange {
+        start {
+          currency
+          gross {
+            amount
+          }
+        }
+      }
+    }
+  }
+}

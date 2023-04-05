@@ -1,4 +1,4 @@
-// File: /home/andreus/ecommerce-fashion-starter/apps/frontend/src/app/layout.tsx
+// File: /home/andreus/ecommerce-fashion-starter/frontend/src/app/layout.tsx
 import * as entry from '../../../src/app/layout'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface'
 

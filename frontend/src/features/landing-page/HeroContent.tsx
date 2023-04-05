@@ -53,7 +53,7 @@ export const HeroContent = () => {
                     h-full
                     bg-black/60
                     
-                    shadow-[0_0_100px_0_rgba(11,109,180,0.3)]">
+                    shadow-[0_0_100px_0_rgba(105,121,152,0.3)]">
                     </div>
                     <Image src="/../public/main/cover1.jpg" alt="" width={2000} height={2000} className="object-cover" />
                 </div>
@@ -109,7 +109,7 @@ export const HeroContent = () => {
                     h-full
                     bg-black/60
                     
-                    shadow-[0_0_100px_0_rgba(11,109,180,0.3)]">
+                    shadow-[0_0_100px_0_rgba(105,121,152,0.3)]">
                     </div>
                     <Image src="/../public/main/cover2.jpg" alt="" width={2000} height={2000} className="object-cover" />
                 </div>

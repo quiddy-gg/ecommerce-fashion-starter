@@ -1,8 +1,8 @@
 self.__RSC_MANIFEST={
   "__ssr_module_mapping__": {
-    "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
       "": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
         "name": "",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -10,7 +10,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
         "name": "*",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -18,7 +18,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
         "name": "default",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -26,9 +26,9 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js": {
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
       "": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
         "name": "",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -36,7 +36,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
         "name": "*",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -44,7 +44,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
         "name": "default",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -52,9 +52,9 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js": {
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
       "": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
         "name": "",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -62,7 +62,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
         "name": "*",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -70,7 +70,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
         "name": "default",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -78,9 +78,9 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
       "": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
         "name": "",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -88,7 +88,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
         "name": "*",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -96,7 +96,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
         "name": "default",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -104,35 +104,35 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/image.js": {
+    "(app-client)/./node_modules/next/dist/client/image.js": {
       "": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/image.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/layout:app/layout"
+          "app/product/[id]/page:app/product/[id]/page"
         ],
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/image.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/layout:app/layout"
+          "app/product/[id]/page:app/product/[id]/page"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/image.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/layout:app/layout"
+          "app/product/[id]/page:app/product/[id]/page"
         ],
         "async": false
       }
     },
-    "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/link.js": {
+    "(app-client)/./node_modules/next/dist/client/link.js": {
       "": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/link.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
           "app/layout:app/layout"
@@ -140,7 +140,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/link.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
           "app/layout:app/layout"
@@ -148,7 +148,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/link.js",
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
           "app/layout:app/layout"
@@ -185,17 +185,17 @@ self.__RSC_MANIFEST={
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "/home/andreus/ecommerce-fashion-starter/apps/frontend/src/app/layout": [
+    "/home/andreus/ecommerce-fashion-starter/frontend/src/app/layout": [
       "static/css/_app-client_src_app_globals_css.css",
       "static/css/app/layout.css"
     ],
-    "/home/andreus/ecommerce-fashion-starter/apps/frontend/src/app/page": [
-      "static/css/_app-client_node_modules_pnpm_next_13_2_3_biqbaboplfbrettd7655fr4n2y_node_modules_next_font_g-ed2c17.css"
+    "/home/andreus/ecommerce-fashion-starter/frontend/src/app/product/[id]/page": [
+      "static/css/_app-client_src_features_product_product_module_css.css"
     ]
   },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js": {
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/client/components/app-router.js": {
     "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -203,7 +203,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -211,7 +211,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -219,9 +219,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/app-router.js": {
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/esm/client/components/app-router.js": {
     "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -229,7 +229,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -237,7 +237,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -245,9 +245,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js": {
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/client/components/error-boundary.js": {
     "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -255,7 +255,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -263,7 +263,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -271,9 +271,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/error-boundary.js": {
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/esm/client/components/error-boundary.js": {
     "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -281,7 +281,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -289,7 +289,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -297,9 +297,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js": {
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/client/components/layout-router.js": {
     "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -307,7 +307,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -315,7 +315,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -323,9 +323,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/layout-router.js": {
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/esm/client/components/layout-router.js": {
     "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -333,7 +333,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -341,7 +341,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -349,9 +349,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js": {
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/client/components/render-from-template-context.js": {
     "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -359,7 +359,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -367,7 +367,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -375,9 +375,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
     "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -385,7 +385,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -393,7 +393,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -401,7 +401,111 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/font/google/target.css?{\"path\":\"src/features/landing-page/Navbar.tsx\",\"import\":\"Poppins\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"700\"]}],\"variableName\":\"poppins\"}": {
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/client/image.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/product/[id]/page:app/product/[id]/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/product/[id]/page:app/product/[id]/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/product/[id]/page:app/product/[id]/page"
+      ],
+      "async": false
+    }
+  },
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/esm/client/image.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/product/[id]/page:app/product/[id]/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/product/[id]/page:app/product/[id]/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/product/[id]/page:app/product/[id]/page"
+      ],
+      "async": false
+    }
+  },
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/client/link.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    }
+  },
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/dist/esm/client/link.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    }
+  },
+  "/home/andreus/ecommerce-fashion-starter/frontend/node_modules/next/font/google/target.css?{\"path\":\"src/features/landing-page/Navbar.tsx\",\"import\":\"Poppins\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"700\"]}],\"variableName\":\"poppins\"}": {
     "default": {
       "id": "null",
       "name": "default",
@@ -410,111 +514,7 @@ self.__RSC_MANIFEST={
       ]
     }
   },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/image.js": {
-    "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    }
-  },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/image.js": {
-    "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    }
-  },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/link.js": {
-    "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    }
-  },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/link.js": {
-    "": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    }
-  },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/src/features/landing-page/Navbar.tsx": {
+  "/home/andreus/ecommerce-fashion-starter/frontend/src/features/landing-page/Navbar.tsx": {
     "": {
       "id": "(app-client)/./src/features/landing-page/Navbar.tsx",
       "name": "",
@@ -540,21 +540,21 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/src/app/globals.css": {
+  "/home/andreus/ecommerce-fashion-starter/frontend/src/features/product/product.module.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_src_features_product_product_module_css.css"
+      ]
+    }
+  },
+  "/home/andreus/ecommerce-fashion-starter/frontend/src/app/globals.css": {
     "default": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/_app-client_src_app_globals_css.css"
-      ]
-    }
-  },
-  "/home/andreus/ecommerce-fashion-starter/apps/frontend/node_modules/.pnpm/next@13.2.3_biqbaboplfbrettd7655fr4n2y/node_modules/next/font/google/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
-    "default": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/_app-client_node_modules_pnpm_next_13_2_3_biqbaboplfbrettd7655fr4n2y_node_modules_next_font_g-ed2c17.css"
       ]
     }
   }

@@ -1,5 +1,5 @@
 import Image from "next/image"
-
+import Link from "next/link"
 
 
 export const Main = () => {
@@ -35,17 +35,18 @@ export const Main = () => {
                         text-center
                         
                         max-sm:text-2xl">Women’s techwear <br /> outfit</h2>
-                        <button className="w-40
+
+                        <Link href="../product/[id]?id"><button className="w-40
                         h-12
                         text-white
                         font-bold
-                        bg-gradient-to-tr
-                        from-[#020B21]
-                        to-[#20316C]
+                        bg-gradient-to-br
+                        from-[#364665]
+                        to-[#05080f]
                         rounded-sm
                         
                         max-sm:w-32
-                        max-sm:h-10">Discover</button>
+                        max-sm:h-10">Discover</button></Link>
                     </div>
                     <Image src="/../public/main/cover1.jpg" alt="" width={2000} height={2000} className="object-cover" />
                 </div>
@@ -71,17 +72,17 @@ export const Main = () => {
                         text-center
                         
                         max-sm:text-2xl">Women’s techwear <br /> outfit</h2>
-                        <button className="w-40
+                        <Link href="../product/[id]?id"><button className="w-40
                         h-12
                         text-white
                         font-bold
-                        bg-gradient-to-tr
-                        from-[#020B21]
-                        to-[#20316C]
+                        bg-gradient-to-br
+                        from-[#364665]
+                        to-[#05080f]
                         rounded-sm
                         
                         max-sm:w-32
-                        max-sm:h-10">Discover</button>
+                        max-sm:h-10">Discover</button></Link>
                     </div>
                     <Image src="/../public/main/cover2.jpg" alt="" width={2000} height={2000} className="object-cover" />
                 </div>
@@ -106,19 +107,24 @@ export const Main = () => {
                         text-center
                         
                         max-sm:text-2xl">Women’s techwear <br /> outfit</h2>
-                        <button className="w-40
+                        <Link href="../product/[id]?id"><button className="w-40
                         h-12
                         text-white
                         font-bold
-                        bg-gradient-to-tr
-                        from-[#020B21]
-                        to-[#20316C]
+                        bg-gradient-to-br
+                        from-[#364665]
+                        to-[#05080f]
                         rounded-sm
                         
                         max-sm:w-32
-                        max-sm:h-10">Discover</button>
+                        max-sm:h-10">Discover</button></Link>
                     </div>
-                    <Image src="/../public/main/cover-wide.jpg" alt="" width={2000} height={2000} className="object-cover" />
+                    <Image src="/../public/main/cover-wide.jpg" alt="" width={2000} height={2000} className="object-cover
+                    
+                    max-lg:hidden" />
+                    <Image src="/../public/main/cover-wide-horizontal.jpg" alt="" width={2000} height={2000} className="object-cover
+                    
+                    lg:hidden" />
                 </div>
             </div>
         </>

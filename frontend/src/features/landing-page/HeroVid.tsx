@@ -9,7 +9,12 @@ export const HeroVid = () => {
         flex
         overflow-hidden
         mt-16">
-                <Image src="/../public/main/tech.jpg" alt="" width={2000} height={2000} className="object-cover" />
+                <Image src="/../public/main/tech.jpg" alt="" width={2000} height={2000} className="object-cover
+                
+                max-lg:hidden" />
+                <Image src="/../public/main/tech-horizontal.png" alt="" width={2000} height={2000} className="object-cover
+                
+                lg:hidden" />
             </div>
         </>
     )

@@ -1,0 +1,3 @@
+query dupa {
+  __typename
+}
