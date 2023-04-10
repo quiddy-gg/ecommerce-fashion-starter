@@ -46,17 +46,17 @@ export const MainProduct = ({ name, description, price, currency, image, image_a
                     
                     max-lg:snap-center
                     max-lg:shrink-0" />
-                    <Image src="/../public/main/cover2.jpg" alt="" width={700} height={2000} className="object-cover
+                    <Image src={image} alt={image_alt} width={700} height={2000} className="object-cover
                     rounded-sm
                     
                     max-lg:snap-center
                     max-lg:shrink-0" />
-                    <Image src="/../public/main/cover2.jpg" alt="" width={700} height={2000} className="object-cover
+                    <Image src={image} alt={image_alt} width={700} height={2000} className="object-cover
                     rounded-sm
                     
                     max-lg:snap-center
                     max-lg:shrink-0" />
-                    <Image src="/../public/main/cover2.jpg" alt="" width={700} height={2000} className="object-cover
+                    <Image src={image} alt={image_alt} width={700} height={2000} className="object-cover
                     rounded-sm
                     
                     max-lg:snap-center

@@ -125,7 +125,7 @@ function RootLayout({ children  }) {
     return /*#__PURE__*/ jsx_runtime.jsx("html", {
         lang: "en",
         children: /*#__PURE__*/ (0,jsx_runtime.jsxs)("body", {
-            className: "bg-[#05080f] flex flex-col items-center justify-center  ",
+            className: "bg-[#05080f] flex flex-col items-center justify-center ",
             children: [
                 /*#__PURE__*/ jsx_runtime.jsx(Navbar.Navbar, {}),
                 children,

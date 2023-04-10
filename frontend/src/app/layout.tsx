@@ -18,7 +18,6 @@ export default function RootLayout({
       flex-col
       items-center
       justify-center
-      
       '>
         <Navbar />
         {children}

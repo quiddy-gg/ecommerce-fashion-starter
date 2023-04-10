@@ -361,22 +361,22 @@ const MainProduct = ({ name , description , price , currency , image , image_alt
                             className: "object-cover rounded-sm  max-lg:snap-center max-lg:shrink-0"
                         }),
                         /*#__PURE__*/ jsx_runtime.jsx((image_default()), {
-                            src: "/../public/main/cover2.jpg",
-                            alt: "",
+                            src: image,
+                            alt: image_alt,
                             width: 700,
                             height: 2000,
                             className: "object-cover rounded-sm  max-lg:snap-center max-lg:shrink-0"
                         }),
                         /*#__PURE__*/ jsx_runtime.jsx((image_default()), {
-                            src: "/../public/main/cover2.jpg",
-                            alt: "",
+                            src: image,
+                            alt: image_alt,
                             width: 700,
                             height: 2000,
                             className: "object-cover rounded-sm  max-lg:snap-center max-lg:shrink-0"
                         }),
                         /*#__PURE__*/ jsx_runtime.jsx((image_default()), {
-                            src: "/../public/main/cover2.jpg",
-                            alt: "",
+                            src: image,
+                            alt: image_alt,
                             width: 700,
                             height: 2000,
                             className: "object-cover rounded-sm  max-lg:snap-center max-lg:shrink-0"
@@ -643,7 +643,6 @@ const ProductHero = ()=>{
 };
 
 ;// CONCATENATED MODULE: ./src/app/product/[id]/page.tsx
-//@ts-nocheck
 
 
 
@@ -665,12 +664,12 @@ async function Home() {
             className: "flex flex-col gap-20",
             children: [
                 /*#__PURE__*/ jsx_runtime.jsx(MainProduct, {
-                    name: data.product.name,
-                    description: data.product.description,
-                    currency: data.product.pricing.priceRange.start.currency,
-                    price: data.product.pricing.priceRange.start.gross.amount,
-                    image: data.product?.media[0].url,
-                    image_alt: data.product?.media[0].alt
+                    name: data.product?.name ?? "",
+                    description: data.product?.description ?? "",
+                    currency: data.product?.pricing?.priceRange?.start?.currency ?? "",
+                    price: data.product?.pricing?.priceRange?.start?.gross?.amount.toString() ?? "",
+                    image: data.product?.media?.[0]?.url ?? "",
+                    image_alt: data.product?.media?.[0]?.alt ?? ""
                 }),
                 /*#__PURE__*/ jsx_runtime.jsx(ProductHero, {})
             ]

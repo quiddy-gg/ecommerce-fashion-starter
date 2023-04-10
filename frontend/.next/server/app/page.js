@@ -558,7 +558,7 @@ var api = __webpack_require__(18479);
 
 
 const getData = async ()=>{
-    const { data , error  } = await apollo_client/* client.query */.L.query({
+    const { data  } = await apollo_client/* client.query */.L.query({
         query: api/* FetchProductDocument */.sM,
         variables: {
             id: "UHJvZHVjdDoxNTI="
